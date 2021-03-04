@@ -8,9 +8,6 @@
   </div>
 </template>
 
-
-
-
 <script>
 import Header from "@/components/CHVersion/Header";
 import Contact from "@/components/CHVersion/header/customerServiceCenter/Contact";
@@ -36,10 +33,10 @@ export default {
         companyWeb: "",
         companyAddress: "",
         postcode: ""
+		
       },
       consult: {
         title: "留言板",
-
       }
     }
   }
